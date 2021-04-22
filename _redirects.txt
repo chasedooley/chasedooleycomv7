@@ -1,0 +1,14 @@
+
+/journal   https://journal.chasedooley.com
+/j	   https://journal.chasedooley.com
+/blog      https://journal.chasedooley.com
+/book	   https://books.chasedooley.com
+/books     https://books.chasedooley.com
+/b	   https://books.chasedooley.com
+/substack  https://chasedooley.substack.com
+/s	   https://chasedooley.substack.com
+/subscribe https://chasedooley.substack.com
+/sub	   https://chasedooley.substack.com
+/about	   /
+/now       https://journal.chasedooley.com/tagged/today
+
